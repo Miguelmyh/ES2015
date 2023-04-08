@@ -1,0 +1,9 @@
+- What is the difference between ***var*** and ***let***?
+var allows you to redeclare and reassign, let only allows you to reassing and its block-scoped
+- What is the difference between ***var*** and ***const***?
+const is block-scoped, and doesn't allow you to reassgin or redeclare
+- What is the difference between  and ?
+let allows you to reassign 
+- What is hoisting?
+variables can be called even when they are technically not stated.
+this only happens with var as it is a function-scoped data-type
