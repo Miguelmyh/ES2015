@@ -1,9 +1,9 @@
-function createInstructor(firstName, lastName) {
-    return {
-        firstName: firstName,
-        lastName: lastName
-    }
-}
+// function createInstructor(firstName, lastName) {
+//     return {
+//         firstName: firstName,
+//         lastName: lastName
+//     }
+// }
 
 const createInstructor = (first, last) => {
     return {
@@ -39,3 +39,5 @@ const createAnimal = (species, verb, noise) => {
         }
     }
 }
+
+console.log('hello');
